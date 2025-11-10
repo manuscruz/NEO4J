@@ -1,21 +1,21 @@
 produto_id,categoria,nome,preco
-100,""Eletrônicos"",""Smartphone"",1500.00
-101,""Livros"",""Python Guide"",79.90
-102,""Eletrodomésticos"",""Liquidificador Turbo"",199.90
-103,""Beleza"",""Creme Facial Hidratante"",59.90
-104,""Vestuário"",""Camiseta Básica"",39.90
-105,""Eletrônicos"",""Fone Bluetooth"",249.90
-106,""Livros"",""Data Science para Iniciantes"",89.90
-107,""Móveis"",""Cadeira Gamer"",899.90
-108,""Beleza"",""Perfume Floral"",199.00
-109,""Eletrônicos"",""Notebook"",3999.00
-110,""Vestuário"",""Tênis Esportivo"",249.00
-111,""Eletrodomésticos"",""Cafeteira Elétrica"",349.90
-112,""Livros"",""Machine Learning"",129.00
-113,""Beleza"",""Shampoo Premium"",49.90
-114,""Móveis"",""Mesa de Escritório"",750.00
-115,""Eletrônicos"",""Tablet"",999.00
-116,""Livros"",""Neo4j Básico"",69.90
-117,""Beleza"",""Batom Matte"",39.90
-118,""Eletrodomésticos"",""Aspirador Portátil"",299.90
-119,""Móveis"",""Estante Modular"",659.00
+100,Eletrônicos,Smartphone,1500.00
+101,Livros,Python Guide,79.90
+102,Eletrodomésticos,Liquidificador Turbo,199.90
+103,Beleza,Creme Facial Hidratante,59.90
+104,Vestuário,Camiseta Básica,39.90
+105,Eletrônicos,Fone Bluetooth,249.90
+106,Livros,Data Science para Iniciantes,89.90
+107,Móveis,Cadeira Gamer,899.90
+108,Beleza,Perfume Floral,199.00
+109,Eletrônicos,Notebook,3999.00
+110,Vestuário,Tênis Esportivo,249.00
+111,Eletrodomésticos,Cafeteira Elétrica,349.90
+112,Livros,Machine Learning,129.00
+113,Beleza,Shampoo Premium,49.90
+114,Móveis,Mesa de Escritório,750.00
+115,Eletrônicos,Tablet,999.00
+116,Livros,Neo4j Básico,69.90
+117,Beleza,Batom Matte,39.90
+118,Eletrodomésticos,Aspirador Portátil,299.90
+119,Móveis,Estante Modular,659.00
